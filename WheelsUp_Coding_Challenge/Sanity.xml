@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Wheels up Test Suite">
+	  <listeners>
+		 <listener class-name="com.ExtentReport.TestListener"/>
+         <listener class-name="com.ExtentReport.AnnotationTransformer"/>
+	  </listeners>
+       <test name="Wheels Up Test">
+         <classes>
+           <class name="com.wheelsup.qa.WheelsUpTest"/>
+           <class name="com.wheelsup.qa.WeelsUP_API_Test"/>
+         </classes>
+       </test> 
+</suite>
+
+
+
+
