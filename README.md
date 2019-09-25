@@ -23,7 +23,7 @@
     Right click on this file and open with web browser and you will be able to see report and if test cases
     fail you will be able to see with screen shot report.
     
- # Before pull-up project from Git-Hub, will want to be install some prerequisite tools in our local machine.
+ # Before pulling project from Git-Hub, we need to install some prerequisite tools in our local machine.
      Step 1: Download JDK
      Goto Java SE download site @ http://www.oracle.com/technetwork/java/javase/downloads/index.html.
      Under "Java Platform, Standard Edition" ⇒ "Java SE 1.8.{x}", where {x} denotes a fast running security-update number ⇒ Click the        "Oracle JDK" "Download" button.
