@@ -134,7 +134,7 @@
      Also, with this Framework you will be able to configure for Virtual Facility project and gradually
      you can implement this with use test cases as well as future test cases. 
      
-# Outcome Result inside Console:
+# WheelsUP Testing Console OutPut Result:
     [RemoteTestNG] detected TestNG version 6.14.3
     C:\Users\ynr0fpb\eclipse-workspace\WheelsUp_Coding_Challenge\TestData\WheelsUPData.xlsx
     WorkbookFactory create java.io.FileInputStream@cb51256
@@ -183,6 +183,18 @@
     INFO [main] (WheelsUpTest.java:212)- ******** (Wheels Up Test Success full)*********
     PASSED: WheelsUP_Automation_Coding_Challenge("Mohammed", "Alam", "INFO@WHEELSUP.COM", "855-FLY-8760", "Wheels Up", 
     "220 West 42nd St", "New York", "10036.0", "NY", "United State Of America")
+
+    ===============================================
+    Default test
+    Tests run: 1, Failures: 0, Skips: 0
+    ===============================================
+    ===============================================
+    Default suite
+    Total tests run: 1, Failures: 0, Skips: 0
+    ===============================================
+# API Testing Console OutPut Result:
+    [RemoteTestNG] detected TestNG version 6.14.3
+    PASSED: testSocialAccount
 
     ===============================================
     Default test
